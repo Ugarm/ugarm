@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ugo Armer</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate PHP Symfony developer from France</h3>
 
-- 🔭 I’m currently working on [a soundboard project](https://github.com/Ugarm/stripboard)
+- 🔭 I’m currently working on private projects.
 
-- 🌱 I’m currently learning **PHP Symfony & ReactJS**
+- 🌱 I’m currently learning **ThreeJS & ReactJS**
 
 - 👨‍💻 All of my projects are available at [github.com/ugarm](github.com/ugarm)
 
