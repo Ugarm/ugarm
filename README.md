@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ugo Armer</h1>
-<h3 align="center">A passionate PHP Symfony developer from France</h3>
+<h3 align="center">A PHP Symfony developer from France</h3>
 
 - 🔭 I’m currently working on private projects.
 
