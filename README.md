@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on private projects.
 
-- 🌱 I’m currently learning **ThreeJS & ReactJS**
+- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [github.com/ugarm](github.com/ugarm)
-
-- 📫 How to reach me **ugo.armer@gmail.com**
+- 📫 Reach me at **ugo.armer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
