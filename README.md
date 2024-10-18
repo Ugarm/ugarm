@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on private projects.
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **C# and Unity**
 
 - 📫 Reach me at **ugo.armer@gmail.com**
 
